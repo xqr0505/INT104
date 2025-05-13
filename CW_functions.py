@@ -1,6 +1,3 @@
-# pip install numpy pandas matplotlib seaborn scikit-learn scipy itertools-s tabulate
-# pip install openpyxl
-# pip install scipy scikit-learn pandas matplotlib seaborn numpy
 from scipy.optimize import linear_sum_assignment
 from sklearn.cluster import AgglomerativeClustering, KMeans
 from sklearn.externals._scipy.sparse.csgraph import laplacian
